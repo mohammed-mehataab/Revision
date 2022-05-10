@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Metrics we are super proud of</h1>
+    </header>
+    <section>
+    <div id="1">
+        <img src="https://www.pexels.com/photo/purple-petaled-glower-besode-pen-2072162/"alt="img1">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores saepe a atque aperiam, laborum harum mollitia. Suscipit qui accusamus beatae. Animi asperiores laudantium blanditiis voluptatum temporibus veniam tempora possimus neque.</p>
+    </div>
+    <div id="2">
+        <img src="https://www.pexels.com/photo/purple-petaled-glower-besode-pen-2072162/"alt="img1">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores saepe a atque aperiam, laborum harum mollitia. Suscipit qui accusamus beatae. Animi asperiores laudantium blanditiis voluptatum temporibus veniam tempora possimus neque.</p>
+    </div>
+    <div id="3">
+        <img src="https://www.pexels.com/photo/purple-petaled-glower-besode-pen-2072162/"alt="img1">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores saepe a atque aperiam, laborum harum mollitia. Suscipit qui accusamus beatae. Animi asperiores laudantium blanditiis voluptatum temporibus veniam tempora possimus neque.</p>
+    </div>
+    <div id="4">
+        <img src="https://www.pexels.com/photo/purple-petaled-glower-besode-pen-2072162/"alt="img1">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores saepe a atque aperiam, laborum harum mollitia. Suscipit qui accusamus beatae. Animi asperiores laudantium blanditiis voluptatum temporibus veniam tempora possimus neque.</p>
+    </div>
+</section>
+</body>
+</html>
